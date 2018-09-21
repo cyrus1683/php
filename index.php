@@ -6,8 +6,8 @@
 <body>
 <?php
 	$servername = "localhost";
-	$dbuser = "root";
-	$dbpwd = "";
+	$dbuser = "admin";
+	$dbpwd = ">g23povVB>.?M#";
 
 	$con = new mysqli($servername, $dbuser, $dbpwd);
 
